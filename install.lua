@@ -2,8 +2,8 @@
 --
 --
 
-local libURL = "https://raw.githubusercontent.com/acidjazz/drmon/master/lib/f.lua"
-local startupURL = "https://raw.githubusercontent.com/Pthread-Create/drmon/master/drmon.lua"
+local libURL = "https://raw.githubusercontent.com/NSunGod12/draconic-evolution-CC-reactor-control/master/lib/f.lua"
+local startupURL = "https://raw.githubusercontent.com/NSunGod12/draconic-evolution-CC-reactor-control/master/startup.lua"
 local lib, startup
 local libFile, startupFile
 
